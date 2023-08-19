@@ -32,7 +32,7 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 ### Links
 
 - Solution URL: [Github - News HomePage](https://github.com/erickystn/new-homepage)
-- Live Site URL: [Vercel](https://qrcode-challenge-psi.vercel.app/)
+- Live Site URL: [Vercel](https://new-homepage-xi.vercel.app/)
 
 ## My process
 
